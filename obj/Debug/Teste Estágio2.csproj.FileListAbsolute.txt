@@ -1,0 +1,7 @@
+C:\Users\cliente\source\repos\Aprendendo CSharp\Teste Estágio2\bin\Debug\Teste Estágio2.exe.config
+C:\Users\cliente\source\repos\Aprendendo CSharp\Teste Estágio2\bin\Debug\Teste Estágio2.exe
+C:\Users\cliente\source\repos\Aprendendo CSharp\Teste Estágio2\bin\Debug\Teste Estágio2.pdb
+C:\Users\cliente\source\repos\Aprendendo CSharp\Teste Estágio2\obj\Debug\Teste Estágio2.csprojAssemblyReference.cache
+C:\Users\cliente\source\repos\Aprendendo CSharp\Teste Estágio2\obj\Debug\Teste Estágio2.csproj.CoreCompileInputs.cache
+C:\Users\cliente\source\repos\Aprendendo CSharp\Teste Estágio2\obj\Debug\Teste Estágio2.exe
+C:\Users\cliente\source\repos\Aprendendo CSharp\Teste Estágio2\obj\Debug\Teste Estágio2.pdb
